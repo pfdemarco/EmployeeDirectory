@@ -2,6 +2,7 @@
   "name": "employee-directory-react",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://pfdemarco.github.io/EmployeeDirectory",
   "engines": {
     "npm": "5.7.1",
     "node": "9.5.0"
